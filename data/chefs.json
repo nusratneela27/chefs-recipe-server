@@ -5,7 +5,7 @@
         "name": "Beak jong won",
         "experience": "7 years",
         "numberOfRecipes": "3",
-        "likes": "500",
+        "likes": "700",
         "recipes": [
             {
                 "recipe1": "https://i.ibb.co/vD8qQw3/ramen.jpg",
@@ -67,7 +67,7 @@
         "name": "Lee Jun Ho",
         "experience": "2 years",
         "numberOfRecipes": "3",
-        "likes": "500",
+        "likes": "400",
         "recipes": [
             {
                 "recipe1": "https://i.ibb.co/vD8qQw3/ramen.jpg",
@@ -98,7 +98,7 @@
         "name": "Jo jung suk",
         "experience": "1 years",
         "numberOfRecipes": "3",
-        "likes": "500",
+        "likes": "560",
         "recipes": [
             {
                 "recipe1": "https://i.ibb.co/vD8qQw3/ramen.jpg",
@@ -125,11 +125,11 @@
     },
     {
         "id": "5",
-        "img": "https://i.ibb.co/T0BTqcw/chefs2.webp",
-        "name": "Lee Jun Ho",
-        "experience": "2 years",
+        "img": "https://i.ibb.co/Jq2zdZ8/Kristen-Kish.jpg",
+        "name": "Kristen kish",
+        "experience": "5 years",
         "numberOfRecipes": "3",
-        "likes": "500",
+        "likes": "630",
         "recipes": [
             {
                 "recipe1": "https://i.ibb.co/vD8qQw3/ramen.jpg",
@@ -156,11 +156,11 @@
     },
     {
         "id": "6",
-        "img": "https://i.ibb.co/T0BTqcw/chefs2.webp",
-        "name": "Lee Jun Ho",
-        "experience": "2 years",
+        "img": "https://i.ibb.co/4WmkJhk/judi-joo.jpg",
+        "name": "Judi joo",
+        "experience": "5 years",
         "numberOfRecipes": "3",
-        "likes": "500",
+        "likes": "680",
         "recipes": [
             {
                 "recipe1": "https://i.ibb.co/vD8qQw3/ramen.jpg",

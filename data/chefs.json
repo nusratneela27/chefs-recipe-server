@@ -3,7 +3,7 @@
         "id": "1",
         "img": "https://i.ibb.co/Kw2LMTR/beak-jong-won.png",
         "name": "Beak jong won",
-        "experience": "2 years",
+        "experience": "7 years",
         "numberOfRecipes": "3",
         "likes": "500",
         "recipes": [
@@ -34,9 +34,9 @@
         "id": "2",
         "img": "https://i.ibb.co/Zz37V89/kim-bomi.jpg",
         "name": "Kim bomi",
-        "experience": "2 years",
+        "experience": "5 years",
         "numberOfRecipes": "3",
-        "likes": "500",
+        "likes": "450",
         "recipes": [
             {
                 "recipe1": "https://i.ibb.co/vD8qQw3/ramen.jpg",
@@ -94,9 +94,9 @@
     },
     {
         "id": "4",
-        "img": "https://i.ibb.co/T0BTqcw/chefs2.webp",
-        "name": "Lee Jun Ho",
-        "experience": "2 years",
+        "img": "https://i.ibb.co/j4KsfVT/jo-jung-suk.jpg",
+        "name": "Jo jung suk",
+        "experience": "1 years",
         "numberOfRecipes": "3",
         "likes": "500",
         "recipes": [

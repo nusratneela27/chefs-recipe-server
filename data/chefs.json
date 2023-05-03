@@ -4,7 +4,7 @@
         "img": "https://i.ibb.co/Kw2LMTR/beak-jong-won.png",
         "name": "Baek Jong Won",
         "experience": "7 years",
-        "numberOfRecipes": "3",
+        "numberOfRecipes": "70",
         "likes": "700",
         "bio": "Baek Jong-won is a South Korean chef and TV personality who was born on September 4, 1966, in Yesan County, South Korea. He attended Yonsei University, where he studied Social Welfare, but soon transitioned into professional cooking. He began appearing on television reality and variety shows in the early 2010s, featuring in titles such as “My Little Television” (2015), “Home Food Rescue” (2015-2017), “High School Lunch Cook-off” (2019), and “Delicious Rendezvous” (2019).",
         "recipes": [
@@ -16,17 +16,17 @@
                 "rating": "4.8"
             },
             {
-                "recipe1": "https://i.ibb.co/vD8qQw3/ramen.jpg",
-                "recipeName": "Ramen",
-                "ingredients": "1.Ramen noodles, 2.Garlic and ginger, 2.Broth (chicken or veg), 4.Dried shiitake mushrooms, 5.Veggies like carrots or kale, 6.All your favorite toppings like some panko, egg, chili oil, etc",
-                "cookingMethod": "Simmering some garlic, ginger, and dried mushrooms with your chicken broth makes for a great quickie “stock”.A good while in the pot will get some nice flavors going that will soon be soaked up by those noodles. And by good while, I mean 19 minutes, because the whole thing takes 20. The soft egg on top will get you all the Instagram likes, and the panko and extra chili oil or Sriracha will light your mouth up with joy.At the end of the day, a deep bowl of bright veggies + flavorful broth + golden panko crumbs + soft-boiled egg + chewy, tangled noodles is not going to let you down.",
+                "recipe1": "https://i.ibb.co/JHDj4Qf/bulgogi.jpg",
+                "recipeName": "Bulgogi",
+                "ingredients": "1 .1 pound (450 grams) beef (usually sirloin or tenderloin), sliced thinly across the grain, 2.1/2 cup soy sauce, 3 .1/4 cup brown sugar, 4 .1/4 cup rice wine or dry sherry, 5 .2 tablespoons sesame oil",
+                "cookingMethod": "Whisk soy sauce, green onion, sugar, garlic, sesame seeds, sesame oil, and pepper together in a bowl.Place flank steak slices in a shallow dish. Pour marinade over top. Cover and refrigerate for at least 1 hour or overnight.Blanch the spinach in rolling boiling water (5 to 10 seconds). Drain the water and quickly cool it down by running it under cold tap water. Squeeze the spinach to remove any excess water and put it into a mixing bowl. Add the “spinach seasoning” and mix them gently and evenly. Put it into a large mixing bowl where we will be adding the rest of the prepared ingredients in later.Quickly grill flank steak slices on the preheated grill until slightly charred and cooked through, 1 to 2 minutes per side.Serve hot and enjoy!",
                 "rating": "4.8"
             },
             {
-                "recipe1": "https://i.ibb.co/vD8qQw3/ramen.jpg",
-                "recipeName": "Ramen",
-                "ingredients": "1.Ramen noodles, 2.Garlic and ginger, 2.Broth (chicken or veg), 4.Dried shiitake mushrooms, 5.Veggies like carrots or kale, 6.All your favorite toppings like some panko, egg, chili oil, etc",
-                "cookingMethod": "Simmering some garlic, ginger, and dried mushrooms with your chicken broth makes for a great quickie “stock”.A good while in the pot will get some nice flavors going that will soon be soaked up by those noodles. And by good while, I mean 19 minutes, because the whole thing takes 20. The soft egg on top will get you all the Instagram likes, and the panko and extra chili oil or Sriracha will light your mouth up with joy.At the end of the day, a deep bowl of bright veggies + flavorful broth + golden panko crumbs + soft-boiled egg + chewy, tangled noodles is not going to let you down.",
+                "recipe1": "https://i.ibb.co/xXtM6B1/bibimbap.jpg",
+                "recipeName": "Bibimbap",
+                "ingredients": "1. 100g / 3.5 ounces beef mince (or other cuts) 2. 1 Tbsp soy sauce 3. 1 Tbsp sesame oil 4. 1 tsp brown sugar 5. 1/4 tsp minced garlic",
+                "cookingMethod": " For meat, mix the beef mince with the meat sauce listed above. Marinate the meat for about 30 mins while you are working on other ingredients to enhance the flavour. Add some cooking oil into a wok and cook the meat on medium high to high heat. It takes about 3 to 5 mins to thoroughly cook it.Rinse, peel and julienne the carrots. Add some cooking oil and 1/4 tsp of fine sea salt in a wok and cook the carrots on medium high to high heat for 2 to 3 mins.To eat,  mix the ingredients in the bowl, and enjoy!",
                 "rating": "4.8"
             }
         ]
@@ -36,15 +36,15 @@
         "img": "https://i.ibb.co/Zz37V89/kim-bomi.jpg",
         "name": "Kim Bomi",
         "experience": "5 years",
-        "numberOfRecipes": "3",
+        "numberOfRecipes": "40",
         "likes": "450",
         "bio": "Kim Bomi is a South Korean chef who was born on September 5, 1991, in Busan County, South Korea.She has rapidly earned its place as one of the most loved Japanese restaurants in Seoul. With accolades rolling in for its seasonal dishes and hospitality, it was awarded one star in the Michelin Guide Seoul 2021.",
         "recipes": [
             {
-                "recipe1": "https://i.ibb.co/vD8qQw3/ramen.jpg",
-                "recipeName": "Ramen",
-                "ingredients": "1.Ramen noodles, 2.Garlic and ginger, 2.Broth (chicken or veg), 4.Dried shiitake mushrooms, 5.Veggies like carrots or kale, 6.All your favorite toppings like some panko, egg, chili oil, etc",
-                "cookingMethod": "Simmering some garlic, ginger, and dried mushrooms with your chicken broth makes for a great quickie “stock”.A good while in the pot will get some nice flavors going that will soon be soaked up by those noodles. And by good while, I mean 19 minutes, because the whole thing takes 20. The soft egg on top will get you all the Instagram likes, and the panko and extra chili oil or Sriracha will light your mouth up with joy.At the end of the day, a deep bowl of bright veggies + flavorful broth + golden panko crumbs + soft-boiled egg + chewy, tangled noodles is not going to let you down.",
+                "recipe1": "https://i.ibb.co/QYZs6Yk/sushi.jpg",
+                "recipeName": "Shusi",
+                "ingredients": "1. 4 rolls of sushi-seaweed (nori), 2. 1 cup uncooked sushi rice, 3 .1 cup (8fl oz) cold water, 4.2 tablespoons sugar, 5.5 tablespoons mirin or rice vinegarMeat and/or vegetable your choice (eg. 4oz smoked salmon and 1 cucumber sliced lengthwise with 1 avocado, sliced) Soy sauce and pickled ginger (if you like it)",
+                "cookingMethod": "Cook rice in water until it boils. Cover and simmer until grains are soft. Remove from heat and cool.Mix sugar and vinegar. Combine it with cooled rice – this gives it flavour and stickiness.On your sushi bamboo mat, spread out 1 sheet of nori.In the centre of the nori, lay out horizontal lines of your filling (eg. a line of salmon and a line of cucumber). Don’t overload your sushi with filling.Now for the tricky part. Grip the mat firmly in both hands and roll up sushi as tight as you can. The mat will help you apply even pressure along the roll. Note: don’t roll up the mat into the sushiWet the rice-free strip of nori and ‘glue’ it to the sushi roll.",
                 "rating": "4.8"
             },
             {
@@ -55,10 +55,10 @@
                 "rating": "4.8"
             },
             {
-                "recipe1": "https://i.ibb.co/vD8qQw3/ramen.jpg",
-                "recipeName": "Ramen",
-                "ingredients": "1.Ramen noodles, 2.Garlic and ginger, 2.Broth (chicken or veg), 4.Dried shiitake mushrooms, 5.Veggies like carrots or kale, 6.All your favorite toppings like some panko, egg, chili oil, etc",
-                "cookingMethod": "Simmering some garlic, ginger, and dried mushrooms with your chicken broth makes for a great quickie “stock”.A good while in the pot will get some nice flavors going that will soon be soaked up by those noodles. And by good while, I mean 19 minutes, because the whole thing takes 20. The soft egg on top will get you all the Instagram likes, and the panko and extra chili oil or Sriracha will light your mouth up with joy.At the end of the day, a deep bowl of bright veggies + flavorful broth + golden panko crumbs + soft-boiled egg + chewy, tangled noodles is not going to let you down.",
+                "recipe1": "https://i.ibb.co/pJqwVTv/tabboki.jpg",
+                "recipeName": "Tabbokki",
+                "ingredients": "1.350g / 12 ounces Korean rice cakes, separated, 2.150g / 5.3 ounces Korean fish cakes, rinsed over hot water & cut into bite size pieces, 3 .2 cups Korean soup stock (dried kelp and dried anchovy stock), use this recipe, 5.60g / 2 ounces onion, thinly sliced",
+                "cookingMethod": "Unless your rice cakes are soft already, soak them in warm water for 10 mins. Boil the soup stock in a shallow pot over medium high heat and dissolve the tteokbokki sauce by stirring it with a spatula. Once the seasoned stock is boiling, add the rice cakes, fish cakes and onion. Boil them a further 3 to 5 mins until the rice cakes are fully cooked.  Then, to thicken the sauce and to deepen the flavor, simmer it over low heat for a further 2 to 4 mins.. Add the sesame oil, sesame seeds, and green onion then quickly stir. Serve warm.",
                 "rating": "4.8"
             }
         ]
@@ -68,29 +68,29 @@
         "img": "https://i.ibb.co/T0BTqcw/chefs2.webp",
         "name": "Lee Jun Ho",
         "experience": "2 years",
-        "numberOfRecipes": "3",
+        "numberOfRecipes": "57",
         "likes": "400",
         "bio": "Lee Jun Ho is a South Korean chef who was born on January 25, 1990, in Seoul County, South Korea. He attended Howon University, soon transitioned into professional cooking. He began appearing on television reality and variety shows in the early 2018 named “Wok in cook” (2018).",
         "recipes": [
             {
-                "recipe1": "https://i.ibb.co/vD8qQw3/ramen.jpg",
-                "recipeName": "Ramen",
-                "ingredients": "1.Ramen noodles, 2.Garlic and ginger, 2.Broth (chicken or veg), 4.Dried shiitake mushrooms, 5.Veggies like carrots or kale, 6.All your favorite toppings like some panko, egg, chili oil, etc",
-                "cookingMethod": "Simmering some garlic, ginger, and dried mushrooms with your chicken broth makes for a great quickie “stock”.A good while in the pot will get some nice flavors going that will soon be soaked up by those noodles. And by good while, I mean 19 minutes, because the whole thing takes 20. The soft egg on top will get you all the Instagram likes, and the panko and extra chili oil or Sriracha will light your mouth up with joy.At the end of the day, a deep bowl of bright veggies + flavorful broth + golden panko crumbs + soft-boiled egg + chewy, tangled noodles is not going to let you down.",
+                "recipe1": "https://i.ibb.co/wNP19Kd/japchae.jpg",
+                "recipeName": "Japchae",
+                "ingredients": "1. Korean sweet potato starch noodles (dangmyeon,당면), 2.rib eye fillet, cut into strips, 3 .1 carrots (120g / 4.2 ounces), rinsed, peeled & julienned 110g / 3.9 ounces baby spinach, rinsed, 5.1/4 red capsicum / bell pepper (50g / 1.8 ounces), rinsed & julienned",
+                "cookingMethod": " Place the beef strips into a medium bowl. Add the “beef marinade” and gently mix the sauce into the meat. Cover the bowl with food wrap and set it aside while you’re working on other ingredients.Prepare the vegetables as instructed in the “main ingredients” section.Put the sliced mushroom into a medium bowl and add 1 Tbsp of “noodles & mushroom marinade” mixture. Mix them well. Set it aside until you cook it (in about 20 mins).Blanch the spinach in rolling boiling water (5 to 10 seconds). Drain the water and quickly cool it down by running it under cold tap water. Squeeze the spinach to remove any excess water and put it into a mixing bowl.",
                 "rating": "4.8"
             },
             {
-                "recipe1": "https://i.ibb.co/vD8qQw3/ramen.jpg",
-                "recipeName": "Ramen",
-                "ingredients": "1.Ramen noodles, 2.Garlic and ginger, 2.Broth (chicken or veg), 4.Dried shiitake mushrooms, 5.Veggies like carrots or kale, 6.All your favorite toppings like some panko, egg, chili oil, etc",
-                "cookingMethod": "Simmering some garlic, ginger, and dried mushrooms with your chicken broth makes for a great quickie “stock”.A good while in the pot will get some nice flavors going that will soon be soaked up by those noodles. And by good while, I mean 19 minutes, because the whole thing takes 20. The soft egg on top will get you all the Instagram likes, and the panko and extra chili oil or Sriracha will light your mouth up with joy.At the end of the day, a deep bowl of bright veggies + flavorful broth + golden panko crumbs + soft-boiled egg + chewy, tangled noodles is not going to let you down.",
+                "recipe1": "https://i.ibb.co/JHDj4Qf/bulgogi.jpg",
+                "recipeName": "Bulgogi",
+                "ingredients": "1 .1 pound (450 grams) beef (usually sirloin or tenderloin), sliced thinly across the grain, 2.1/2 cup soy sauce, 3 .1/4 cup brown sugar, 4 .1/4 cup rice wine or dry sherry, 5 .2 tablespoons sesame oil",
+                "cookingMethod": "Whisk soy sauce, green onion, sugar, garlic, sesame seeds, sesame oil, and pepper together in a bowl.Place flank steak slices in a shallow dish. Pour marinade over top. Cover and refrigerate for at least 1 hour or overnight.Blanch the spinach in rolling boiling water (5 to 10 seconds). Drain the water and quickly cool it down by running it under cold tap water. Squeeze the spinach to remove any excess water and put it into a mixing bowl. Add the “spinach seasoning” and mix them gently and evenly. Put it into a large mixing bowl where we will be adding the rest of the prepared ingredients in later.Quickly grill flank steak slices on the preheated grill until slightly charred and cooked through, 1 to 2 minutes per side.Serve hot and enjoy!",
                 "rating": "4.8"
             },
             {
-                "recipe1": "https://i.ibb.co/vD8qQw3/ramen.jpg",
-                "recipeName": "Ramen",
-                "ingredients": "1.Ramen noodles, 2.Garlic and ginger, 2.Broth (chicken or veg), 4.Dried shiitake mushrooms, 5.Veggies like carrots or kale, 6.All your favorite toppings like some panko, egg, chili oil, etc",
-                "cookingMethod": "Simmering some garlic, ginger, and dried mushrooms with your chicken broth makes for a great quickie “stock”.A good while in the pot will get some nice flavors going that will soon be soaked up by those noodles. And by good while, I mean 19 minutes, because the whole thing takes 20. The soft egg on top will get you all the Instagram likes, and the panko and extra chili oil or Sriracha will light your mouth up with joy.At the end of the day, a deep bowl of bright veggies + flavorful broth + golden panko crumbs + soft-boiled egg + chewy, tangled noodles is not going to let you down.",
+                "recipe1": "https://i.ibb.co/Xbv2D4t/kimbap.jpg",
+                "recipeName": "Kimbap",
+                "ingredients": "1.1 large (12-ounce; 340g) cucumber, 2.Garlic and ginger, 2.2 teaspoons (10ml) grain syrup or oligosaccharide syrup (sold as “oligodang” at the Korean markets), 3 .1 whole danmuji (pickled radish) or 6 pre-cut long danmuji sticks for kimbap, 5.3 long strips of artificial crab meat (surimi in Japanese), cut in half lengthwise for a total of 6 5.All your favorite toppings like some panko, egg, chili oil, etc",
+                "cookingMethod": "Trim cucumber ends and cut it in half lengthwise. Using a spoon, scrape out the seeds from each half. Cut each half lengthwise into 3 long strips to make 6 strips total. Place cucumber strips on a plate, sprinkle all over with salt, and toss well to coat. Set aside.In a small bowl, beat eggs with a pinch of salt. Lightly grease a 10-inch nonstick skillet with vegetable oil and heat over medium heat until warmed but not sizzling hot. Add half the egg, swirling to cover entire bottom of pan and cook until egg has just set on top.",
                 "rating": "4.8"
             }
         ]
@@ -100,22 +100,22 @@
         "img": "https://i.ibb.co/j4KsfVT/jo-jung-suk.jpg",
         "name": "Jo Jung Suk",
         "experience": "1 years",
-        "numberOfRecipes": "3",
+        "numberOfRecipes": "66",
         "likes": "560",
         "bio": "Jo Jung Suk is a South Korean chef who was born on December 26, 1980, in Seoul County, South Korea. He attended Kunkook University, soon transitioned into professional cooking. He began appearing on television reality and variety shows in the early 2018 named “Wok in cook” (2018).",
         "recipes": [
             {
-                "recipe1": "https://i.ibb.co/vD8qQw3/ramen.jpg",
-                "recipeName": "Ramen",
-                "ingredients": "1.Ramen noodles, 2.Garlic and ginger, 2.Broth (chicken or veg), 4.Dried shiitake mushrooms, 5.Veggies like carrots or kale, 6.All your favorite toppings like some panko, egg, chili oil, etc",
-                "cookingMethod": "Simmering some garlic, ginger, and dried mushrooms with your chicken broth makes for a great quickie “stock”.A good while in the pot will get some nice flavors going that will soon be soaked up by those noodles. And by good while, I mean 19 minutes, because the whole thing takes 20. The soft egg on top will get you all the Instagram likes, and the panko and extra chili oil or Sriracha will light your mouth up with joy.At the end of the day, a deep bowl of bright veggies + flavorful broth + golden panko crumbs + soft-boiled egg + chewy, tangled noodles is not going to let you down.",
+                "recipe1": "https://i.ibb.co/dDgqnXB/jajanmyeon.jpg",
+                "recipeName": "Jajanmyeon",
+                "ingredients": "1.1kg (35 ounces), fresh jajangmyeon noodles (Or you can use fresh udon or ramen noodles), 2.1 large onion (150g / 5.3 ounces), 3.1 medium zucchini (110g / 3.9 ounces), 4.Dried shiitake mushrooms, 5.2 large potatoes (470g / 1 pound)",
+                "cookingMethod": "Rinse the pork in cold water and pat it dry with kitchen paper. Add the pork marinade sauce onto the pork. Mix them well and leave it for 15 mins.Cut the onion, zucchini, and potato into small cubes.Pre heat the wok until the bottom is heated well. Add the lard and melt it in the wok. Add the black bean paste and stir it constantly on medium heat for 3 to 5 minutes. Add the brown sugar and stir it for an additional 2 to 3 mins.Scoop out the black bean paste (without the oil) and set it aside. Leave the oil in the wok to use in the next step.Add the pork into the wok and stir until the pork is half cooked. Add the chicken stock, water and rice wine then simmer it for 5 to 7 mins on medium heat.",
                 "rating": "4.8"
             },
             {
-                "recipe1": "https://i.ibb.co/vD8qQw3/ramen.jpg",
-                "recipeName": "Ramen",
-                "ingredients": "1.Ramen noodles, 2.Garlic and ginger, 2.Broth (chicken or veg), 4.Dried shiitake mushrooms, 5.Veggies like carrots or kale, 6.All your favorite toppings like some panko, egg, chili oil, etc",
-                "cookingMethod": "Simmering some garlic, ginger, and dried mushrooms with your chicken broth makes for a great quickie “stock”.A good while in the pot will get some nice flavors going that will soon be soaked up by those noodles. And by good while, I mean 19 minutes, because the whole thing takes 20. The soft egg on top will get you all the Instagram likes, and the panko and extra chili oil or Sriracha will light your mouth up with joy.At the end of the day, a deep bowl of bright veggies + flavorful broth + golden panko crumbs + soft-boiled egg + chewy, tangled noodles is not going to let you down.",
+                "recipe1": "https://i.ibb.co/bj0KDJC/kimchi-jjigae.jpg",
+                "recipeName": "Kimchi jjigae",
+                "ingredients": "1. Korean sweet potato starch noodles (dangmyeon,당면), 2.rib eye fillet, cut into strips, 3 .1 carrots (120g / 4.2 ounces), rinsed, peeled & julienned 110g / 3.9 ounces baby spinach, rinsed, 5.1/4 red capsicum / bell pepper (50g / 1.8 ounces), rinsed & julienned",
+                "cookingMethod": " Place the beef strips into a medium bowl. Add the “beef marinade” and gently mix the sauce into the meat. Cover the bowl with food wrap and set it aside while you’re working on other ingredients.Prepare the vegetables as instructed in the “main ingredients” section.Put the sliced mushroom into a medium bowl and add 1 Tbsp of “noodles & mushroom marinade” mixture. Mix them well. Set it aside until you cook it (in about 20 mins).Blanch the spinach in rolling boiling water. Drain the water and quickly cool it down by running it under cold tap water. Squeeze the spinach to remove any excess water and put it into a mixing bowl.",
                 "rating": "4.8"
             },
             {
@@ -132,29 +132,29 @@
         "img": "https://i.ibb.co/Jq2zdZ8/Kristen-Kish.jpg",
         "name": "Kristen Kish",
         "experience": "5.5 years",
-        "numberOfRecipes": "3",
+        "numberOfRecipes": "87",
         "likes": "630",
         "bio": "Kristen Kish (born December 1, 1983) is a Korean-born American chef known for winning the tenth season of Top Chef. She was formerly chef de cuisine at Menton in the Fort Point neighborhood of Boston. She is the host of 36 Hours on Travel Channel and a co-host of Fast Foodies on TruTV as well as co-host of Iron Chef: Quest for an Iron Legend. She also hosts National Geographic’s Restaurants at the End of the World.",
         "recipes": [
             {
-                "recipe1": "https://i.ibb.co/vD8qQw3/ramen.jpg",
-                "recipeName": "Ramen",
+                "recipe1": "https://i.ibb.co/9hfCdd2/Odeng-soup.jpg",
+                "recipeName": "Odeng Soup",
                 "ingredients": "1.Ramen noodles, 2.Garlic and ginger, 2.Broth (chicken or veg), 4.Dried shiitake mushrooms, 5.Veggies like carrots or kale, 6.All your favorite toppings like some panko, egg, chili oil, etc",
                 "cookingMethod": "Simmering some garlic, ginger, and dried mushrooms with your chicken broth makes for a great quickie “stock”.A good while in the pot will get some nice flavors going that will soon be soaked up by those noodles. And by good while, I mean 19 minutes, because the whole thing takes 20. The soft egg on top will get you all the Instagram likes, and the panko and extra chili oil or Sriracha will light your mouth up with joy.At the end of the day, a deep bowl of bright veggies + flavorful broth + golden panko crumbs + soft-boiled egg + chewy, tangled noodles is not going to let you down.",
                 "rating": "4.8"
             },
             {
-                "recipe1": "https://i.ibb.co/vD8qQw3/ramen.jpg",
-                "recipeName": "Ramen",
-                "ingredients": "1.Ramen noodles, 2.Garlic and ginger, 2.Broth (chicken or veg), 4.Dried shiitake mushrooms, 5.Veggies like carrots or kale, 6.All your favorite toppings like some panko, egg, chili oil, etc",
-                "cookingMethod": "Simmering some garlic, ginger, and dried mushrooms with your chicken broth makes for a great quickie “stock”.A good while in the pot will get some nice flavors going that will soon be soaked up by those noodles. And by good while, I mean 19 minutes, because the whole thing takes 20. The soft egg on top will get you all the Instagram likes, and the panko and extra chili oil or Sriracha will light your mouth up with joy.At the end of the day, a deep bowl of bright veggies + flavorful broth + golden panko crumbs + soft-boiled egg + chewy, tangled noodles is not going to let you down.",
+                "recipe1": "https://i.ibb.co/30fWrch/fish-cake.jpg",
+                "recipeName": "Fish cake",
+                "ingredients": "1. Korean fish cakes (4 rectangle fish cake sheets) or homemade fish cakes, 2.30g (1 ounce) green onion, thinly sliced, 4.1 Tbsp soy sauce, 5.1 tsp minced garlic, 6.All your favorite toppings like some panko, egg,",
+                "cookingMethod": "Put the water (6 cups) in a medium/large pot and add the dried kelp and anchovies. (If you can use a large tea infuser, it will be a much neater process later!) Boil it for 10 mins uncovered on medium heat.Take out (& discard) the kelp and add the radish slices. Boil the radish and anchovy for a further 10 mins.Take out and set aside the radish. Sieve through the boiled stock over damp cheese/linen cloth to remove small particles from the kelp and anchovies. (If you don’t mind these particles floating in your soup, you can skip sieving and just remove the anchovies from the broth. But I recommend sieving!)Slice the fish cakes into small rectangle size. ",
                 "rating": "4.8"
             },
             {
-                "recipe1": "https://i.ibb.co/vD8qQw3/ramen.jpg",
-                "recipeName": "Ramen",
-                "ingredients": "1.Ramen noodles, 2.Garlic and ginger, 2.Broth (chicken or veg), 4.Dried shiitake mushrooms, 5.Veggies like carrots or kale, 6.All your favorite toppings like some panko, egg, chili oil, etc",
-                "cookingMethod": "Simmering some garlic, ginger, and dried mushrooms with your chicken broth makes for a great quickie “stock”.A good while in the pot will get some nice flavors going that will soon be soaked up by those noodles. And by good while, I mean 19 minutes, because the whole thing takes 20. The soft egg on top will get you all the Instagram likes, and the panko and extra chili oil or Sriracha will light your mouth up with joy.At the end of the day, a deep bowl of bright veggies + flavorful broth + golden panko crumbs + soft-boiled egg + chewy, tangled noodles is not going to let you down.",
+                "recipe1": "https://i.ibb.co/mctrWL7/rice-bowl.webp",
+                "recipeName": "Traditional Rice Bowl",
+                "ingredients": "1. Any type of shrimp works in this easy bowl recipe, but medium to large shrimp are recommended., 2. Use any kind of rice you like including white rice or brown rice, 4.Cilantro sauce: This sauce is made with a combination of Greek yogurt,, 5.Veggies like carrots or kale, 6.All your favorite toppings like some panko, egg, chili oil, etc",
+                "cookingMethod": "Start by making white rice, brown rice, quinoa, sushi rice, or other grain. This can be made on the stovetop, Instant pot, or a rice cooker. To speed up prep, consider using precooked packaged or frozen rice. Now it's time to make the amazing cilantro mint sauce. This sauce couldn't be easier to make!  Simply add the Greek yogurt, mayonnaise, cilantro, mint, lime juice, olive oil, garlic, salt, and pepper to a blender or food processor. Process the sauce until it is creamy and smooth. Taste and season as needed. Like most sauces, this cilantro mint sauce only gets better the longer it sits in the fridge. ",
                 "rating": "4.8"
             }
         ]
@@ -164,22 +164,22 @@
         "img": "https://i.ibb.co/4WmkJhk/judi-joo.jpg",
         "name": "Judi Joo",
         "experience": "3.5 years",
-        "numberOfRecipes": "3",
+        "numberOfRecipes": "56",
         "likes": "680",
         "bio": "Judy Joo is a chef and television personality. She is best known as being the host of Food Network's 'Korean Food Made Simple' and an Iron Chef UK and her restaurant Seoul Bird in London. Joo splits her time between New York City, London, and Asia.",
         "recipes": [
             {
-                "recipe1": "https://i.ibb.co/vD8qQw3/ramen.jpg",
-                "recipeName": "Ramen",
-                "ingredients": "1.Ramen noodles, 2.Garlic and ginger, 2.Broth (chicken or veg), 4.Dried shiitake mushrooms, 5.Veggies like carrots or kale, 6.All your favorite toppings like some panko, egg, chili oil, etc",
-                "cookingMethod": "Simmering some garlic, ginger, and dried mushrooms with your chicken broth makes for a great quickie “stock”.A good while in the pot will get some nice flavors going that will soon be soaked up by those noodles. And by good while, I mean 19 minutes, because the whole thing takes 20. The soft egg on top will get you all the Instagram likes, and the panko and extra chili oil or Sriracha will light your mouth up with joy.At the end of the day, a deep bowl of bright veggies + flavorful broth + golden panko crumbs + soft-boiled egg + chewy, tangled noodles is not going to let you down.",
+                "recipe1": "https://i.ibb.co/wNP19Kd/japchae.jpg",
+                "recipeName": "Japchae",
+                "ingredients": "1. Korean sweet potato starch noodles (dangmyeon,당면), 2.rib eye fillet, cut into strips, 3 .1 carrots (120g / 4.2 ounces), rinsed, peeled & julienned 110g / 3.9 ounces baby spinach, rinsed, 5.1/4 red capsicum / bell pepper (50g / 1.8 ounces), rinsed & julienned",
+                "cookingMethod": "Place the beef strips into a medium bowl. Add the “beef marinade” and gently mix the sauce into the meat. Cover the bowl with food wrap and set it aside while you’re working on other ingredients.Prepare the vegetables as instructed in the “main ingredients” section.Put the sliced mushroom into a medium bowl and add 1 Tbsp of “noodles & mushroom marinade” mixture. Mix them well. Set it aside until you cook it (in about 20 mins).Blanch the spinach in rolling boiling water (5 to 10 seconds). Drain the water and quickly cool it down by running it under cold tap water. Squeeze the spinach to remove any excess water and put it into a mixing bowl.",
                 "rating": "4.8"
             },
             {
-                "recipe1": "https://i.ibb.co/vD8qQw3/ramen.jpg",
-                "recipeName": "Ramen",
-                "ingredients": "1.Ramen noodles, 2.Garlic and ginger, 2.Broth (chicken or veg), 4.Dried shiitake mushrooms, 5.Veggies like carrots or kale, 6.All your favorite toppings like some panko, egg, chili oil, etc",
-                "cookingMethod": "Simmering some garlic, ginger, and dried mushrooms with your chicken broth makes for a great quickie “stock”.A good while in the pot will get some nice flavors going that will soon be soaked up by those noodles. And by good while, I mean 19 minutes, because the whole thing takes 20. The soft egg on top will get you all the Instagram likes, and the panko and extra chili oil or Sriracha will light your mouth up with joy.At the end of the day, a deep bowl of bright veggies + flavorful broth + golden panko crumbs + soft-boiled egg + chewy, tangled noodles is not going to let you down.",
+                "recipe1": "https://i.ibb.co/xXtM6B1/bibimbap.jpg",
+                "recipeName": "Bibimbap",
+                "ingredients": "1. 100g / 3.5 ounces beef mince (or other cuts) 2. 1 Tbsp soy sauce 3. 1 Tbsp sesame oil 4. 1 tsp brown sugar 5. 1/4 tsp minced garlic",
+                "cookingMethod": " For meat, mix the beef mince with the meat sauce listed above. Marinate the meat for about 30 mins while you are working on other ingredients to enhance the flavour. Add some cooking oil into a wok and cook the meat on medium high to high heat. It takes about 3 to 5 mins to thoroughly cook it.Rinse, peel and julienne the carrots. Add some cooking oil and 1/4 tsp of fine sea salt in a wok and cook the carrots on medium high to high heat for 2 to 3 mins.To eat,  mix the ingredients in the bowl, and enjoy!",
                 "rating": "4.8"
             },
             {
